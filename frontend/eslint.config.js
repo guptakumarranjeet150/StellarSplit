@@ -27,4 +27,4 @@ export default defineConfig([
       ...jsxA11y.configs.recommended.rules,
     },
   },
-])
+]);
