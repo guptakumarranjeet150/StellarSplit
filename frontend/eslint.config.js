@@ -39,4 +39,4 @@ export default tseslint.config(
       'prefer-const': 'warn',
     },
   },
-)
+);
